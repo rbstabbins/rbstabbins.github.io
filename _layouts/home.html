@@ -6,10 +6,10 @@ layout: default
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
-
-  <img src="index/home_img.png" alt="Home Image" >
   
   {{ content }}
+  
+  <hr>
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Updates" }}</h2>

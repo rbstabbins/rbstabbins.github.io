@@ -6,10 +6,11 @@ permalink: /research/
 Here is a brief introduction to some of the research I am currently and have previously been involved with.
 It is my ambition to write some short blog posts that elaborate on the themes introduced here.
 
-### Spectral Imaging Simulations for Planetary Surface Exploration
 ---
-
+# Spectral Imaging Simulations for Planetary Surface Exploration
 In preparation for the landing of Rosalind Franklin at Oxia Planum in the summer of 2023, I've been developing software to simulate the imaging chain of PanCam. Given a description of an environment, in terms of topography and material distribution, and skylight illumination conditions, the software answers the question of what will PanCam see?
+
+![Specsim Overview](research/specsim_overview.png){:width="80%", align="centre"}
 
 This involves two sub-questions: 
 
