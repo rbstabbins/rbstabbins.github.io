@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Posts
 permalink: /posts/
@@ -20,4 +20,4 @@ permalink: /posts/
   {%- endfor -%}
 </ul>
 
-<p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+<p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
