@@ -1,5 +1,6 @@
 ---
 layout: home
+published: true
 ---
 <img style="float: left; padding: 10px;" width="40%" src="index/specsim_painting.jpg" alt="Home Image" title="My talented sister painted this scene based on one of the figures from my thesis."/>
 
