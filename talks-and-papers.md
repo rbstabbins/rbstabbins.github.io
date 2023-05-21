@@ -9,13 +9,17 @@ Here is a list of talks I have given and papers I have authored or been a part o
 
 ### Publications
 
-P.M. Grindrod, **R. Stabbins**, S. Motaghian, E.J. Allender, C.R. Cousins, M.S. Rice, and K. Stephan, “Optimizing Exomars 2022 Rover Remote Sensing Multispectral Science: Cross-Rover Comparison using Laboratory and Orbital Data”, Earth & Space Science, 9, e2022EA002243, June 2022. [doi:10.1029/2022EA002243](https://doi.org/10.1029/2022EA002243){:target="_blank"}  
+P.M. Grindrod, **R. Stabbins**, S. Motaghian, E.J. Allender, C.R. Cousins, M.S. Rice, and K. Stephan, “Optimizing Exomars 2022 Rover Remote Sensing Multispectral Science: Cross-Rover Comparison using Laboratory and Orbital Data”, Earth & Space Science, 9, e2022EA002243, June 2022.  
+[:link: doi:10.1029/2022EA002243](https://doi.org/10.1029/2022EA002243){:target="_blank"}  
 
-M.R. Balme, M.C. Curtis-Rouse, S. Banham, D. Barnes, R. Barnes, A. Bauer, C. Bedford, J. Bridges, F. E. G. Butcher, P. Caballo, A. Caldwell, A. Coates, C. Cousins, J. Davis, J. Dequaire, P. Edwards, P. Fawdon, K. Furuya, M. Gadd, P. Get, A. Griffiths, P.M. Grindrod, M. Gunn, S. Gupta, R. Hansen, J.K. Harris, L.J. Hicks, J. Holt, B. Huber, C. Huntly, I. Hutchinson, L. Jackson, S. Kay, S. Kybert, J. Lee, H.N. Lerman, M. McHugh, W. McMahon, J.-P. Muller, T. Ortner, G. Osinski, G. Paar, L.J. Preston, S. Schwenzer, **R. Stabbins**, Y. Tao, C. Traxler, S. Turner, L. Tyler, S. Venn, H. Walker, T. Wilcox, J. Wright, and B. Yeomans, "The 2016 UK Space Agency Mars Utah Rover Field Investigation (MURFI)", Planetary & Space Science, Volume 165, pp. 31-56, January, 2019. [doi: 10.1016/j.pss.2018.12.003](https://doi.org/10.1016/j.pss.2018.12.003){:target="_blank"}  
+M.R. Balme, M.C. Curtis-Rouse, S. Banham, D. Barnes, R. Barnes, A. Bauer, C. Bedford, J. Bridges, F. E. G. Butcher, P. Caballo, A. Caldwell, A. Coates, C. Cousins, J. Davis, J. Dequaire, P. Edwards, P. Fawdon, K. Furuya, M. Gadd, P. Get, A. Griffiths, P.M. Grindrod, M. Gunn, S. Gupta, R. Hansen, J.K. Harris, L.J. Hicks, J. Holt, B. Huber, C. Huntly, I. Hutchinson, L. Jackson, S. Kay, S. Kybert, J. Lee, H.N. Lerman, M. McHugh, W. McMahon, J.-P. Muller, T. Ortner, G. Osinski, G. Paar, L.J. Preston, S. Schwenzer, **R. Stabbins**, Y. Tao, C. Traxler, S. Turner, L. Tyler, S. Venn, H. Walker, T. Wilcox, J. Wright, and B. Yeomans, "The 2016 UK Space Agency Mars Utah Rover Field Investigation (MURFI)", Planetary & Space Science, Volume 165, pp. 31-56, January, 2019.  
+[:link: doi: 10.1016/j.pss.2018.12.003](https://doi.org/10.1016/j.pss.2018.12.003){:target="_blank"}  
 
-E.J. Allender, **R. Stabbins**, M.D. Gunn, C.R. Cousins, A.J. Coates, “The ExoMars Spectral Tool (ExoSpec): an image analysis tool for ExoMars 2020 PanCam imagery”, Proc. SPIE 10789, Image and Signal Processing for Remote Sensing XXIV, 107890I, October, 2018. [doi: 10.1117/12.2325659](https://doi.org/10.1117/12.2325659){:target="_blank"}  
+E.J. Allender, **R. Stabbins**, M.D. Gunn, C.R. Cousins, A.J. Coates, “The ExoMars Spectral Tool (ExoSpec): an image analysis tool for ExoMars 2020 PanCam imagery”, Proc. SPIE 10789, Image and Signal Processing for Remote Sensing XXIV, 107890I, October, 2018.  
+[:link: doi: 10.1117/12.2325659](https://doi.org/10.1117/12.2325659){:target="_blank"}  
 
-A.J. Coates, R. Jaumann, A.D. Griffiths, C.E. Leff, N. Schmitz, J-L. Josset, G. Paar, M. Gunn, E. Hauber, C.R. Cousins, R.E. Cross, P. Grindrod, J.C. Bridges, M. Balme, S. Gupta, I.A. Crawford, P. Irwin, **R. Stabbins**, D. Tirsch, J.L. Vago, T. Theodorou, M. Caballo-Perucha, G.R. Osinski, "The PanCam instrument for the ExoMars rover", Astrobiology, 17, 6-7, July, 2017. [doi: 10.1089/ast.2016.1548](https://doi.org/10.1089/ast.2016.1548){:target="_blank"}  
+A.J. Coates, R. Jaumann, A.D. Griffiths, C.E. Leff, N. Schmitz, J-L. Josset, G. Paar, M. Gunn, E. Hauber, C.R. Cousins, R.E. Cross, P. Grindrod, J.C. Bridges, M. Balme, S. Gupta, I.A. Crawford, P. Irwin, **R. Stabbins**, D. Tirsch, J.L. Vago, T. Theodorou, M. Caballo-Perucha, G.R. Osinski, "The PanCam instrument for the ExoMars rover", Astrobiology, 17, 6-7, July, 2017.  
+[:link: doi: 10.1089/ast.2016.1548](https://doi.org/10.1089/ast.2016.1548){:target="_blank"}  
 
 
 ### Conference Presentations

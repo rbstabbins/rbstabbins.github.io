@@ -7,7 +7,7 @@ published: true
 # Introduction
 Welcome to the website of Dr Roger Stabbins.  
 &nbsp;  
-I'm a Post-Doctoral Research Assistant with the [Planetary Surfaces Group](https://www.planetsurf.space/){:target="_blank"} of the Natural History Museum in London (UK).  
+I'm a Post-Doctoral Research Associate with the [Planetary Surfaces Group](https://www.planetsurf.space/){:target="_blank"} of the Natural History Museum in London (UK).  
 &nbsp;  
 My research focuses on maximising the science return of the multispectral and stereo [PanCam](https://www.youtube.com/watch?v=aOEgsdTqdmo){:target="_blank"} imaging system for the [ExoMars Rosalind Franklin Rover mission](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars){:target="_blank"}.  
 &nbsp;  
