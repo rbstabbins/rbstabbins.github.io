@@ -21,13 +21,19 @@ In preparation for the landing of Rosalind Franklin at Oxia Planum, I've been de
 :page_with_curl: [LPSC 2018 Poster: Simulating the Image Chain of the ExoMars 2020 Rover PanCam Wide Angle Cameras](../downloadables/lpsc_2018_poster_rbstabbins.pdf){:target="_blank"}  
 
 ---
-<center> <h1>Geochemistry to Geology for ExoMars 2022: Visible to Near-Infrared Spectral Variability</h1> </center>
-
 <p align="center">
-    <img src="spectral_parameters_overview.jpg" style="float: centre; padding: 5px;" width="60%" alt="SpecSim Overview" />
+<a href="https://www.youtube.com/watch?v=EGiUqPgkeH0"><img src="spectral_parameters_overview.jpg" style="float: centre; padding: 5px;" width="60%" alt="SpecSim Overview" /></a>
 </p>
 
+<center> <h1>Geochemistry to Geology for ExoMars 2022: Visible to Near-Infrared Spectral Variability</h1> </center>
+
 My work with the Planetary Surfaces group at the Natural History Museum had the broad objective of preparing for exploitation of the multispectral sampling that the PanCam Wide Angle Cameras afford, by incorporating the prior knowledge of the landing site mineralogy, obtained from orbit, into the analysis process.
+
+<p align="center">
+    <img src="agu_2022_presentation_snapshot.png" style="float: centre; padding: 5px;" width="80%" alt="AGU Presentation Snapshot" />
+</p>
+
+:movie_camera: [Presentation at Machine Learning for Planetary Science session, AGU 2022: Choosing and Using Multispectral Filters for Data-Limited Dynamic Planetary Surface Exploration with Linear Discriminant Analysis](https://www.youtube.com/watch?v=EGiUqPgkeH0){:target="_blank"}  
 
 :page_facing_up: [E&SS Paper (Grindrod et al): Optimizing Exomars 2022 Rover Remote Sensing Multispectral Science: Cross-Rover Comparison using Laboratory and Orbital Data](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EA002243){:target="_blank"}  
 

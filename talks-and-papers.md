@@ -5,7 +5,7 @@ permalink: /talks-and-papers/
 order: 4
 ---
 
-Here is a list of talks I have given and papers I have authored or been a part of.
+Here is a list of talks I have given, conferences and workshops I've attended, and papers I have authored or been a part of.
 
 ### Publications
 
@@ -21,15 +21,42 @@ E.J. Allender, **R. Stabbins**, M.D. Gunn, C.R. Cousins, A.J. Coates, “The Exo
 A.J. Coates, R. Jaumann, A.D. Griffiths, C.E. Leff, N. Schmitz, J-L. Josset, G. Paar, M. Gunn, E. Hauber, C.R. Cousins, R.E. Cross, P. Grindrod, J.C. Bridges, M. Balme, S. Gupta, I.A. Crawford, P. Irwin, **R. Stabbins**, D. Tirsch, J.L. Vago, T. Theodorou, M. Caballo-Perucha, G.R. Osinski, "The PanCam instrument for the ExoMars rover", Astrobiology, 17, 6-7, July, 2017.  
 [:link: doi: 10.1089/ast.2016.1548](https://doi.org/10.1089/ast.2016.1548){:target="_blank"}  
 
-
 ### Conference Presentations
 
-Stabbins R. B. et al, "Applications of the ExoMars 2020 PanCam Wide Angle Camera Simulator: Optimising Image Acquisition and Post-Processing", EPSC Abstracts Vol. 12, EPSC2018-1116 2018, European Planetary Science Congress, Berlin, 2018 (Poster), (Abstract)
+AGU 2022  
+Stabbins R. B. et al, "Choosing and Using Multispectral Filters for Data-Limited Dynamic Planetary Surface Exploration with Linear Discriminant Analysis", AGU Fall Meeting 2022, Chicago, IL, US, 12-16 December 2022  
+[Slides](downloadables/agu_2022_presentation_stabbins.pdf){:target="_blank"}, [Abstract](https://ui.adsabs.harvard.edu/abs/2022AGUFM.P23A..08S/abstract){:target="_blank"}, [Recording](https://www.youtube.com/watch?v=EGiUqPgkeH0){:target="_blank"}  
 
-Stabbins R. B. et al, "Simulating The Image Chain Of The Exomars 2020 Rover Pancam Wide Angle Cameras", 49th Lunar and Planetary Science Conference, #2099, 19-23 March 2018, The Woodlands, Texas, 2018. (Poster), (Abstract)
+BPSC 2022  
+Stabbins R. B. et al, "Seeing Minerals Clearly: Learning Dimension Reductions on Spectral Reflectance Libraries for Efficient In Situ Multispectral Image Acquisition and Analysis", 3rd British Planetary Science Conference, Milton Keynes, UK, 22-24 June 2022  
+[Poster](/downloadables/bpsc_2022_presentation_stabbins.pdf){:target="_blank"}, [Abstract](/downloadables/bpsc_2022_abstract_stabbins.pdf){:target="_blank"}  
+
+LPSC 2021  
+Stabbins R. B. et al, "Optimizing Exomars Pancam Multispectral Science: Investigating the Limits of Material Classification", 52nd Lunar and Planetary Science Conference, #1912, held virtually, 15-19 March 2021  
+[Poster](/downloadables/lpsc_2021_poster_stabbins.pdf){:target="_blank"}, [Abstract](/downloadables/lpsc_2021_abstract_stabbins.pdf){:target="_blank"}  
+
+BSPC 2020  
+Stabbins R. B. et al, "Hematite through the eyes of the ExoMars 2020 Rover Rosalind Franklin: Simulating mineral identification with the PanCam WAC multispectral filters", 2nd British Planetary Science Conference, Oxford, UK, 13-15 January 2020  
+[Poster](/downloadables/bpsc_2020_poster_stabbins.pdf){:target="_blank"}, [Abstract](/downloadables/bpsc_2020_abstract_stabbins.pdf){:target="_blank"}  
+
+EPSC 2018  
+Stabbins R. B. et al, "Applications of the ExoMars 2020 PanCam Wide Angle Camera Simulator: Optimising Image Acquisition and Post-Processing", EPSC Abstracts, Vol. 12, EPSC2018-1116, European Planetary Science Congress, Berlin, DE, 16-21 September 2018  
+[Poster](/downloadables/epsc_2018_poster_stabbins.pdf){:target="_blank"}, [Abstract](/downloadables/epsc_2018_abstract_stabbins.pdf){:target="_blank"}  
+
+IPM 2018  
+Stabbins R. B. et al, "Spectral Imaging System Simulation: Preparations for the ExoMars 2020 Rover PanCam Wide Angle Cameras", International Workshop on Instrumentation for Planetary Missions, Berlin, DE, 12-14 September 2018  
+[Slides](/downloadables/ipm_2018_presentation_stabbins.pdf){:target="_blank"}, [Abstract](/downloadables/ipm_2018_abstract_stabbins.pdf){:target="_blank"}  
+
+LPSC 2018  
+Stabbins R. B. et al, "Simulating The Image Chain Of The Exomars 2020 Rover Pancam Wide Angle Cameras", 49th Lunar and Planetary Science Conference, #2099, The Woodlands, Texas, US, 19-23 March 2018  
+[Poster](/downloadables/lpsc_2018_poster_stabbins.pdf){:target="_blank"}, [Abstract](/downloadables/lpsc_2018_abstract_stabbins.pdf){:target="_blank"}  
 
 
 ### Talks, Posters and Workshops
+:memo: Japan Geoscience Union Meeting, Chiba, JP, 22-26/05/2023  
+:loudspeaker: MMX Science Team Meeting Invited Talk, Tokyo, JP, 30/03/2023  
+:loudspeaker: MMX Imaging Team Invited Seminar, Tokyo, JP, 07/02/2023  
+:loudspeaker: American Geophysical Union Fall Meeting, Chicago, US, 08/12/2022  
 :loudspeaker: 3rd British Planetary Science Congress, Open University, UK, 22/06/2022  
 :loudspeaker: ExoMars PanCam Science Team Meeting, Online, 04/01/2022  
 :loudspeaker: Mars: A New Geological Frontier, The Geological Society, Online, 04/11/2021  
@@ -48,7 +75,7 @@ Stabbins R. B. et al, "Simulating The Image Chain Of The Exomars 2020 Rover Panc
 :loudspeaker: Plasma & Planetary Group Seminar, MSSL, 8/01/2019  
 :page_with_curl: European Planetary Science Congress, TUB Berlin, 16-21/09/2018  
 :loudspeaker: 4th International Workshop on Instrumentation for Planetary Missions, TUB Berlin, 12/09/2018  
-Organiser Building Habitable Worlds IV, Astrobiology Early Careers Meeting, MSSL, 6/08/2018  
+:loudspeaker: Host, Building Habitable Worlds IV, Astrobiology Early Careers Meeting, MSSL, 6/08/2018  
 :memo: Machine Learning & Artificial Intelligence Summer School, UCL, 17-25/07/2018  
 :loudspeaker: PanCam Science Team Meeting, MSSL, 24/4/2018  
 :loudspeaker: Solar System Seminar, MSSL, 23/4/2018  
