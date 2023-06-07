@@ -4,7 +4,7 @@ published: true
 ---
 <h1>Introduction</h1>
 
-<img style="float: left; padding: 0px 20px 20px 0px; max-width:100%"
+<img style="float: left; padding: 0px 20px 20px 0px; max-width:40%; height:auto"
     height=446
     width=331
     src="index/specsim_painting.jpg" 

@@ -5,8 +5,9 @@ permalink: /about/
 order: 1
 ---
 
-<img style="float: left; padding: 0px 30px 0px 0px; max-width: 80%"
-        width="35%"
+<img style="float: left; padding: 0px 30px 0px 0px; max-width: 45%; height:auto"        
+        height=460
+        width=285
         src="lift_selfie_crop.jpg"
         title="Self portrait in a lift. May 2023." >
 
