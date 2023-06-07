@@ -2,9 +2,15 @@
 layout: home
 published: true
 ---
-<img style="float: left; padding: 10px;" width="40%" src="index/specsim_painting.jpg" alt="Home Image" title="My talented sister painted this scene based on one of the figures from my thesis."/>
+<h1>Introduction</h1>
 
-# Introduction
+<img style="float: left; padding: 0px 20px 20px 0px; max-width:100%"
+    height=446
+    width=331
+    src="index/specsim_painting.jpg" 
+    alt="Home Image" 
+    title="My talented sister painted this scene based on one of the figures from my thesis."/>
+
 This is the website of Dr Roger Stabbins.
 &nbsp;
 
