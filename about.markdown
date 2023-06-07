@@ -19,6 +19,9 @@ Some of the things I spend time thinking about include how light interacts with 
 
 Right now I'm a JSPS Short-Term Fellow in Tokyo, Japan, where I've joined the science team of the JAXA Martian Moons Exploration mission (MMX), to help with calibration and operations planning for the OROCHI multispectral imager. MMX will launch in 2024 and reach the Mars system at the end of the summer 2025, studying Phobos from a Quasi-Satellite Orbit before landing on the surface and collecting a sample, and returning this to Earth in 2029, via a phase of Deimos observations.
 
+
+Previously I was a Post-Doctoral Research Associate with the [Planetary Surfaces Group](https://www.planetsurf.space/){:target="_blank"} of the Natural History Museum (London, UK), and before that I was a PhD student in the [Planetary Sciences Group](https://www.ucl.ac.uk/mssl/research/solar-system/planetary-science){:target="_blank"} at the [Mullard Space Science Laboratory](https://www.ucl.ac.uk/mssl/mullard-space-science-laboratory){:target="_blank"}, University College London. There are some [other](other.markdown) things I'm interested in too.
+
 <figure>
         <img style="display: block; padding: 20px 20px 5px 20px; max-width:80%; margin-left:auto; margin-right:auto"
                 width="80%"
@@ -27,13 +30,10 @@ Right now I'm a JSPS Short-Term Fellow in Tokyo, Japan, where I've joined the sc
         <figcaption style="text-align: center; font-style: italic">A sunny day outside the guest house at Rikkyo University. 4/2023</figcaption>
 </figure>
 
-Previously I was a Post-Doctoral Research Associate with the [Planetary Surfaces Group](https://www.planetsurf.space/){:target="_blank"} of the Natural History Museum (London, UK), and before that I was a PhD student in the [Planetary Sciences Group](https://www.ucl.ac.uk/mssl/research/solar-system/planetary-science){:target="_blank"} at the [Mullard Space Science Laboratory](https://www.ucl.ac.uk/mssl/mullard-space-science-laboratory){:target="_blank"}, University College London. There are some [other](other.markdown) things I'm interested in too.
-
-
 <!-- # Biography
 <!-- I was born in London but grew up in Cornwall, in the Helford area, next to the sea and under the stars.
 I did a lot of sailing growing up, through the Optimist and Laser National junior and youth programmes, but then became more interested in music, in the orbit of the Falmouth scene circa-2010. -->
-I studied Physics in London at UCL from 2010 - 2014, developing an interest in robotics through an internship with the Autonomous Systems Group at RAL Space, and an interest in space instrumentation and imaging during my Masters thesis.
+<!-- I studied Physics in London at UCL from 2010 - 2014, developing an interest in robotics through an internship with the Autonomous Systems Group at RAL Space, and an interest in space instrumentation and imaging during my Masters thesis.
 &nbsp;
 
 In 2014 I joined the [Media & Arts Technology](https://mat.qmul.ac.uk/){:target="_blank"} Centre for Doctoral Training in EECS at QMUL to pursue my intersts in digital musical instruments. I learned a lot about programming (C++, MaxMSP, Arduino) and human-computer interaction, but mostly I learned that what I really wanted to explore was outer space, and that my musical explorations of inner space were best done outside of the academy.
