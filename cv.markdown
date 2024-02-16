@@ -7,6 +7,15 @@ order: 2
 
 ---
 # Employment
+2024 &ndash; 2025
+<ul class='cv'>
+    <li><b>Post-Doctoral Research Assistant</b></li>
+    <li>Natural History Museum, London, UK</li>
+    <li>UK Space Agency Aurora Programme</li>
+    <li>Title: <em>Exploring the Limits of Material Discrimination with CaSSIS Multiband Imaging</em></li>
+    <li>Supervised by Prof. P. Grindrod</li>
+</ul>
+
 2023 &ndash; 2024  
 <ul class='cv'>
     <li><b>Post-Doctoral Fellow</b></li>

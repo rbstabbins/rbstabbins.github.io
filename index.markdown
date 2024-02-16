@@ -14,7 +14,7 @@ published: true
 This is the website of Dr Roger Stabbins.
 &nbsp;
 
-I'm a JSPS Short-term Fellow at Rikkyo University (Tokyo, Japan), hosted by the Kameda Laboratory in the Department of Physics.
+I'm a UK Space Agency Aurora Post-Doc, hosted by Prof. Pete Grindrod with the Planetary Surfaces Group at the Natural History Museum, London.
 &nbsp;
 
 My research focuses on maximising the science return of multispectral and stereo imaging systems for planetary surface exploration, through modelling, simulations, and laboratory and field experiments.
