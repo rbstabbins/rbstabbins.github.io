@@ -28,6 +28,14 @@ Stabbins R. B. et al, "Toward Multiview-Multispectral Sensing from the Martian M
 Spacecraft: Imaging Ryugu Samples with the Laboratory OROCHI Simulator", 4th British Planetary Science Conference, Leicester, UK, 19-21 June 2024  
 [Slides](/downloadables/bpsc_2024_presentation_stabbins.pdf){:target="_blank"}, [Abstract](/downloadables/bpsc_2024_abstract_presentation_stabbins.pdf){:target="_blank"}  
 
+BPSC 2024  
+Stabbins R. B. & Grindrod. P. M., "Exploring the Limits of Material Discrimination with CaSSIS Multiband Imaging", 4th British Planetary Science Conference, Leicester, UK, 19-21 June 2024  
+[Poster](/downloadables/bpsc_2024_poster_stabbins.pdf){:target="_blank"}, [Abstract](/downloadables/bpsc_2024_poster_abstract_stabbins.pdf){:target="_blank"} 
+
+BPSC 2024 Instrumentation Workshop  
+Stabbins R. B. et al, "Computationally Simulating Spectral Sensing of Planetary Surface Composition", 4th British Planetary Science Conference Instrumentation Workshop, Leicester, UK, 18 June 2024  
+[Poster](/downloadables/bpsc_2024_instrumentation_poster_stabbins.pdf){:target="_blank"}, [Abstract](/downloadables/bpsc_2024_instrumentation_poster_abstract_stabbins.pdf){:target="_blank"} 
+
 AGU 2022  
 Stabbins R. B. et al, "Choosing and Using Multispectral Filters for Data-Limited Dynamic Planetary Surface Exploration with Linear Discriminant Analysis", AGU Fall Meeting 2022, Chicago, IL, US, 12-16 December 2022  
 [Slides](downloadables/agu_2022_presentation_stabbins.pdf){:target="_blank"}, [Abstract](https://ui.adsabs.harvard.edu/abs/2022AGUFM.P23A..08S/abstract){:target="_blank"}, [Recording](https://www.youtube.com/watch?v=EGiUqPgkeH0){:target="_blank"}  
