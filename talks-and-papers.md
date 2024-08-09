@@ -58,6 +58,13 @@ Stabbins R. B. et al, "Simulating The Image Chain Of The Exomars 2020 Rover Panc
 
 
 ### Talks, Posters and Workshops
+:loudspeaker: Paris Observatory (LESIA) Invited Seminar, Paris, FR, 24/07/2024
+:loudspeaker: 4th British Planetary Science Congress, Leicester University, UK, 21/06/2022  
+:page_with_curl: 4th British Planetary Science Congress, Leicester University, UK, 20/06/2022  
+:page_with_curl: Instrumentation Workshop - 4th British Planetary Science Congress, Leicester University, UK, 19/06/2022  
+:loudspeaker: University of Tokyo Invited Seminar, Tokyo, JP, 18/01/2024  
+:memo: ExoMars PanCam & Enfys Science Team Meeting, Online, 9/01/2024
+:memo: MMX Science Team Meeting, Sagamihara, JP, 20-22/11/2023  
 :memo: Japan Geoscience Union Meeting, Chiba, JP, 22-26/05/2023  
 :loudspeaker: MMX Science Team Meeting Invited Talk, Tokyo, JP, 30/03/2023  
 :loudspeaker: MMX Imaging Team Invited Seminar, Tokyo, JP, 07/02/2023  
