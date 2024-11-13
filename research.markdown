@@ -37,9 +37,18 @@ My work with the Planetary Surfaces group at the Natural History Museum had the 
 
 :page_facing_up: [E&SS Paper (Grindrod et al): Optimizing Exomars 2022 Rover Remote Sensing Multispectral Science: Cross-Rover Comparison using Laboratory and Orbital Data](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EA002243){:target="_blank"}  
 
-:page_with_curl: [BPSC 2020 Poster: Hematite through the eyes of the ExoMars 2020 Rover Rosalind Franklin: Simulating mineral identification with the PanCam WAC multispectral filters](../downloadables/bpsc_2020_poser_rbstabbins.pdf){:target="_blank"}  
+:page_facing_up: [E&SS Paper (Stabbins et al): Optimizing ExoMars Rover Remote Sensing Multispectral Science II: Choosing and Using Multispectral Filters for Dynamic Planetary Surface Exploration With Linear Discriminant Analysis](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023EA003398){:target="_blank"}  
 
 ---
+<p align="center">
+    <img src="loros.png" style="float: centre; padding: 5px;" width="60%" alt="LOROS: Laboratory OROCHI Simulator" />
+</p>
+
+<center> <h1>Laboratory Simulations of the OROCHI Multispectral Multiview Imager for the Martian Moons eXploration Mission</h1> </center>
+I spent 2023 at Rikkyo University, Tokyo, where I joined the imaging team making preparation for the OROCHI and TENGOO cameras for the JAXA led MMX mission to Phobos. I worked on a laboratory simulator of the OROCHI multispectral multiview imager, tuning the performance to match that expected of the OROCHI flight model, and writing control and processing software to standarise the acquisition of multispectral reflectance data. This involved taking the simulator into the ISO-6 Extraterrestrial Sample Curation Centre at  ISAS to image grains of asteroid Ryugu returned by the JAXA Hayabusa2 mission.
+
+:page_facing_up: [PEPS Paper (Stabbins & Kameda) (*In Review*): LOROS: "Laboratory Simulations of the Optical RadiOmeter composed of CHromatic Imagers (OROCHI) Experiment of the Martian Moons eXploration (MMX) Mission"](../downloadables/peps_preprint_stabbins.pdf){:target="_blank"}
+
 <!-- <center> <h1>Spectral Imaging Analysis Software</h1></center>
 
 A brief description of my work for ExoSpec -->

@@ -1,7 +1,7 @@
 ---
 layout: page
 published: true
-# title: Other
+title: Other
 permalink: /other/
 order: 5
 ---
@@ -24,3 +24,10 @@ order: 5
 
 [For the Pier Live, Penzance](https://www.youtube.com/watch?v=DXlhaKrb2nw){:target="_blank"}  
 <!-- Sam and Jim are two of the greatest musicians I might ever know, and they very gracefully used to let me bring my samplers to the table and play along with their real instruments while I pressed play on mine. Sometimes my sister would also project some visuals over the top, and here all of these things were captured on film during maybe the last summer I had before I started to worry about science. -->
+
+[Lana Del R'Amen - White Dress](https://youtu.be/Zur9ZDsHtzs?si=i96i387iF5thXVgY){:target="_blank"}
+<!-- A bowl of ramen at Tsujita, singing Lana Del Rey in the Karaokekan golden mic room, DIY jungle at forestlimit. An ode to a year in Tokyo. -->
+
+[A Sushi Donburi on Rikkyo-Dori](https://youtube.com/playlist?list=PL_EFwKBorU476ycdWIPojcZtP4K9HrHRm&si=aiOHPDjhoyS0mPZu){:target="_blank"}
+<!-- Music collected whilst living in Tokyo 2023. At lunch times I'd walk over from the Rikkyo University to one of the nearby record shops. Outlets of Coconuts Disk, Disk Union, Book Off, Tower Records were all in reach, and I'd note down the records on the walls or on promotion or in the bargain buckets and then I'd get a bowl of rice and raw fish and sit in the park and listen.  -->
+s

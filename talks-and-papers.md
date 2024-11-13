@@ -9,6 +9,9 @@ Here is a list of talks I have given, conferences and workshops I've attended, a
 
 ### Publications
 
+**R. Stabbins**, P.M. Grindrod, S. Motaghian, E.J. Allender, C.R. Cousins, “Optimizing ExoMars Rover Remote Sensing Multispectral Science II: Choosing and Using Multispectral Filters for Dynamic Planetary Surface Exploration With Linear Discriminant Analysis, Earth & Space Science, 11, 10, e2023EA003398, October 2024.  
+[:link: doi:10.1029/2023EA003398](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023EA003398){:target="_blank"}
+
 P.M. Grindrod, **R. Stabbins**, S. Motaghian, E.J. Allender, C.R. Cousins, M.S. Rice, and K. Stephan, “Optimizing Exomars 2022 Rover Remote Sensing Multispectral Science: Cross-Rover Comparison using Laboratory and Orbital Data”, Earth & Space Science, 9, e2022EA002243, June 2022.  
 [:link: doi:10.1029/2022EA002243](https://doi.org/10.1029/2022EA002243){:target="_blank"}  
 
