@@ -30,4 +30,3 @@ order: 5
 
 [A Sushi Donburi on Rikkyo-Dori](https://youtube.com/playlist?list=PL_EFwKBorU476ycdWIPojcZtP4K9HrHRm&si=aiOHPDjhoyS0mPZu){:target="_blank"}
 <!-- Music collected whilst living in Tokyo 2023. At lunch times I'd walk over from the Rikkyo University to one of the nearby record shops. Outlets of Coconuts Disk, Disk Union, Book Off, Tower Records were all in reach, and I'd note down the records on the walls or on promotion or in the bargain buckets and then I'd get a bowl of rice and raw fish and sit in the park and listen.  -->
-s
