@@ -9,7 +9,10 @@ Here is a list of talks I have given, conferences and workshops I've attended, a
 
 ### Publications
 
-**R. Stabbins**, P.M. Grindrod, S. Motaghian, E.J. Allender, C.R. Cousins, “Optimizing ExoMars Rover Remote Sensing Multispectral Science II: Choosing and Using Multispectral Filters for Dynamic Planetary Surface Exploration With Linear Discriminant Analysis, Earth & Space Science, 11, 10, e2023EA003398, October 2024.  
+**R. Stabbins** & S. Kameda, “LOROS: Laboratory Simulations of the Optical RadiOmeter composed of CHromatic Imagers (OROCHI) Experiment of the Martian Moons eXploration (MMX) Mission", Progress in Earth & Planetary Science, MMX Special Issue, In Review.  
+[:link: doi:10.21203/rs.3.rs-5448907/v1](https://doi.org/10.21203/rs.3.rs-5448907/v1){:target="_blank"}
+
+**R. Stabbins**, P.M. Grindrod, S. Motaghian, E.J. Allender, C.R. Cousins, “Optimizing ExoMars Rover Remote Sensing Multispectral Science II: Choosing and Using Multispectral Filters for Dynamic Planetary Surface Exploration With Linear Discriminant Analysis", Earth & Space Science, 11, 10, e2023EA003398, October 2024.  
 [:link: doi:10.1029/2023EA003398](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023EA003398){:target="_blank"}
 
 P.M. Grindrod, **R. Stabbins**, S. Motaghian, E.J. Allender, C.R. Cousins, M.S. Rice, and K. Stephan, “Optimizing Exomars 2022 Rover Remote Sensing Multispectral Science: Cross-Rover Comparison using Laboratory and Orbital Data”, Earth & Space Science, 9, e2022EA002243, June 2022.  
@@ -25,6 +28,11 @@ A.J. Coates, R. Jaumann, A.D. Griffiths, C.E. Leff, N. Schmitz, J-L. Josset, G. 
 [:link: doi: 10.1089/ast.2016.1548](https://doi.org/10.1089/ast.2016.1548){:target="_blank"}  
 
 ### Conference Presentations
+
+EGU 2025  
+Stabbins R. B. et al, "Supervised Spectral Parameter Learning over Jezero Crater with the ESA ExoMars TGO CaSSIS Multiband Imager", EGU General Assembly, Vienna, AT, 27.4 - 2.5 2025
+[:link: doi: 10.5194/egusphere-egu25-8773](https://doi.org/10.5194/egusphere-egu25-8773){:target="_blank"}  
+[Slides](/downloadables/egu_2025_presentation_stabbins.pdf){:target="_blank"}, [Abstract](/downloadables/egu_2025_abstract_stabbins.pdf){:target="_blank"}  
 
 BPSC 2024  
 Stabbins R. B. et al, "Toward Multiview-Multispectral Sensing from the Martian Moons eXploration
@@ -69,42 +77,48 @@ Stabbins R. B. et al, "Simulating The Image Chain Of The Exomars 2020 Rover Panc
 
 
 ### Talks, Posters and Workshops
-:loudspeaker: Paris Observatory (LESIA) Invited Seminar, Paris, FR, 24/06/2024  
-:loudspeaker: 4th British Planetary Science Congress, Leicester University, UK, 21/06/2024  
-:page_with_curl: 4th British Planetary Science Congress, Leicester University, UK, 20/06/2024  
-:page_with_curl: Instrumentation Workshop - 4th British Planetary Science Congress, Leicester University, UK, 19/06/2024  
-:loudspeaker: University of Tokyo Invited Seminar, Tokyo, JP, 18/01/2024  
-:memo: ExoMars PanCam & Enfys Science Team Meeting, Online, 9/01/2024  
+:earth_africa: Canadian x UK Space Agency ExoMars PanCam & Enfys Ries Crater Field Trip, Nördlingen, DE, 5-9/5/2025  
+:loudspeaker: European Geoscience Union General Assembly, Vienna, AT, 28/4-2/5/2025  
+:loudspeaker: ExoMars CaSSIS Science Team Meeting, Abu Dhabi, UAE, 27-31/01/2025  
+:memo: UK Planetary Forum ECR Meeting, Oxford, UK, 13/1/2025  
+:memo: MMX Science Team Meeting, Paris, FR, 4-5/11/2024  
+:memo: ExoMars Enfys Science Team Meeting, London, UK, 23/10/2024  
+:loudspeaker: Paris Observatory (LESIA) Invited Seminar, Paris, FR, 24/6/2024  
+:loudspeaker: 4th British Planetary Science Congress, Leicester University, UK, 21/6/2024  
+:page_with_curl: 4th British Planetary Science Congress, Leicester University, UK, 20/6/2024  
+:page_with_curl: Instrumentation Workshop - 4th British Planetary Science Congress, Leicester University, UK, 19/6/2024  
+:loudspeaker: University of Tokyo Invited Seminar, Tokyo, JP, 18/1/2024  
+:memo: ExoMars PanCam & Enfys Science Team Meeting, Online, 9/1/2024  
 :memo: MMX Science Team Meeting, Sagamihara, JP, 20-22/11/2023  
-:memo: Japan Geoscience Union Meeting, Chiba, JP, 22-26/05/2023  
-:loudspeaker: MMX Science Team Meeting Invited Talk, Tokyo, JP, 30/03/2023  
-:loudspeaker: MMX Imaging Team Invited Seminar, Tokyo, JP, 07/02/2023  
-:loudspeaker: American Geophysical Union Fall Meeting, Chicago, US, 08/12/2022  
-:loudspeaker: 3rd British Planetary Science Congress, Open University, UK, 22/06/2022  
-:loudspeaker: ExoMars PanCam Science Team Meeting, Online, 04/01/2022  
-:loudspeaker: Mars: A New Geological Frontier, The Geological Society, Online, 04/11/2021  
-:loudspeaker: ExoMars PanCam Working Group 6 Cartography & 3D Vision Meeting, 03/06/2021  
-:loudspeaker: ExoMars PanCam Science Team Meeting, Online, 05/05/2021  
-:loudspeaker: ExoMars PanCam Seminar Series, Online, 28/04/2021  
-:page_with_curl: 52nd Lunar and Planetary Science Conference, Online, 16-19/03/2021  
-:memo: ExoMars PanCam Science Team Meeting, Online, 16-17/09/2020  
-:loudspeaker: RAS Specialist Discussion Meeting, Biosignature Identification in Habitable Martian Environments, 09/10/2020  
-:memo: ExoMars PanCam Science Team Meeting, MSSL, 6-7/02/2020  
-:page_with_curl: 2nd British Planetary Science Congress, Oxford, UK, 13-15/01/2020  
-:earth_africa: UK Space Agency ExoMars Field Training Workshop on Ancient Lake Sediments, Thurso, Scotland, 16-19/09/2019  
-:memo: PanCam Science Team Meeting, MSSL, 13/06/2019  
-:memo: Workshop on 3D visualisation of Mars rover-derived stereo-image datasets for quantitative geological analysis, Imperial College London, 26-27/03/2019  
-:loudspeaker: Imaging Group Seminar, MSSL, 25/01/2019  
-:loudspeaker: Plasma & Planetary Group Seminar, MSSL, 8/01/2019  
-:page_with_curl: European Planetary Science Congress, TUB Berlin, 16-21/09/2018  
-:loudspeaker: 4th International Workshop on Instrumentation for Planetary Missions, TUB Berlin, 12/09/2018  
-:loudspeaker: Host, Building Habitable Worlds IV, Astrobiology Early Careers Meeting, MSSL, 6/08/2018  
-:memo: Machine Learning & Artificial Intelligence Summer School, UCL, 17-25/07/2018  
+:memo: Japan Geoscience Union Meeting, Chiba, JP, 22-26/5/2023  
+:loudspeaker: MMX Science Team Meeting Invited Talk, Tokyo, JP, 30/3/2023  
+:loudspeaker: MMX Imaging Team Invited Seminar, Tokyo, JP, 7/2/2023  
+:loudspeaker: American Geophysical Union Fall Meeting, Chicago, US, 8/12/2022  
+:loudspeaker: 3rd British Planetary Science Congress, Open University, UK, 22/6/2022  
+:loudspeaker: ExoMars PanCam Science Team Meeting, Online, 4/1/2022  
+:loudspeaker: Mars: A New Geological Frontier, The Geological Society, Online, 4/11/2021  
+:loudspeaker: ExoMars PanCam Working Group 6 Cartography & 3D Vision Meeting, 3/6/2021  
+:loudspeaker: ExoMars PanCam Science Team Meeting, Online, 5/5/2021  
+:loudspeaker: ExoMars PanCam Seminar Series, Online, 28/4/2021  
+:page_with_curl: 52nd Lunar and Planetary Science Conference, Online, 16-19/3/2021  
+:memo: ExoMars PanCam Science Team Meeting, Online, 16-17/9/2020  
+:loudspeaker: RAS Specialist Discussion Meeting, Biosignature Identification in Habitable Martian Environments, 9/10/2020  
+:memo: ExoMars PanCam Science Team Meeting, MSSL, 6-7/2/2020  
+:page_with_curl: 2nd British Planetary Science Congress, Oxford, UK, 13-15/1/2020  
+:earth_africa: UK Space Agency ExoMars Field Training Workshop on Ancient Lake Sediments, Thurso, Scotland, 16-19/9/2019  
+:memo: PanCam Science Team Meeting, MSSL, 13/6/2019  
+:memo: Workshop on 3D visualisation of Mars rover-derived stereo-image datasets for quantitative geological analysis, Imperial College London, 26-27/3/2019  
+:loudspeaker: Imaging Group Seminar, MSSL, 25/1/2019  
+:loudspeaker: Plasma & Planetary Group Seminar, MSSL, 8/1/2019  
+:page_with_curl: European Planetary Science Congress, TUB Berlin, 16-21/9/2018  
+:loudspeaker: 4th International Workshop on Instrumentation for Planetary Missions, TUB Berlin, 12/9/2018  
+:loudspeaker: Host, Building Habitable Worlds IV, Astrobiology Early Careers Meeting, MSSL, 6/8/2018  
+:memo: Machine Learning & Artificial Intelligence Summer School, UCL, 17-25/7/2018  
 :loudspeaker: PanCam Science Team Meeting, MSSL, 24/4/2018  
 :loudspeaker: Solar System Seminar, MSSL, 23/4/2018  
 :memo: 3D & Visualisation for Planetary Surface Science Workshop, Vienna, 6-7/4/2018  
 :page_with_curl: 49th Lunar & Planetary Science Conference, The Woodlands, Texas, 19-23/3/2018  
-:earth_africa: UK Space Agency ExoMars Field Training Workshop, Pembrokeshire, Wales, 18-21/09/2017  
+:earth_africa: UK Space Agency ExoMars Field Training Workshop, Pembrokeshire, Wales, 18-21/9/2017  
 :page_with_curl: 1st British Planetary Science Congress, Glasgow, 4-6/12/2017  
 :page_with_curl: 7th Astrobiology Society of Britain Conference, The Open University, 13/9/2017  
 :loudspeaker: RSPSOC2017: Earth & Planets, Imperial College London, 6/9/2017  
@@ -132,4 +146,4 @@ Stabbins R. B. et al, "Simulating The Image Chain Of The Exomars 2020 Rover Panc
 :loudspeaker: Oral Presentation  
 :page_with_curl: Poster Presentation  
 :memo: Attendance without formal presentation  
-:earth_africa: Field Training  
+:earth_africa: Field Trip  
