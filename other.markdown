@@ -1,8 +1,8 @@
 ---
 layout: page
-published: true
+published: false
 title: Other
-permalink: /other/
+# permalink: /other/
 order: 5
 ---
 <h1>Various media made so long ago now that it's quite funny.</h1>
