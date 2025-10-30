@@ -9,6 +9,9 @@ Here is a list of talks I have given, conferences and workshops I've attended, a
 
 ### Publications
 
+Tahara, R., Hatakeda, K., Nishimura, M., Yogata, K., Fukai, R., Miyazaki, A., Yada, T., Enokido, Y., Abe, M., Kawasaki, S., Sakurai, R., Okada, T., Pilorget, C., Bibring, J.-P., Hamm, V., Lourit, L., Loizeau, D., Riu, L., Yumoto, K., Cho, Y., Sugita, S., Nakahara, S., Mori, S., Aikyo, Y., Kameda, S., **Stabbins, R.**, Shimizu, Y., Miyamoto, H., Hitomi, Y., Nakano, A., Nagashima, K., Sugahara, H., Suzuki, S., Kimura, S. and Usui, T., "JAXA curation for Bennu samples returned by the NASA's OSIRIS-REx mission", Meteoritics & Planetary Science, October, 2025.
+[:link: doi.org/10.1111/maps.70066](https://doi.org/10.1111/maps.70066){:target="_blank"}
+
 **R. Stabbins** & S. Kameda, “LOROS: Laboratory Simulations of the Optical RadiOmeter composed of CHromatic Imagers (OROCHI) Experiment of the Martian Moons eXploration (MMX) Mission", Progress in Earth & Planetary Science, MMX Special Issue, In Review.  
 [:link: doi:10.21203/rs.3.rs-5448907/v1](https://doi.org/10.21203/rs.3.rs-5448907/v1){:target="_blank"}
 

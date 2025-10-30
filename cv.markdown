@@ -7,6 +7,15 @@ order: 2
 
 ---
 # Employment
+2025 &ndash; 2027
+<ul class='cv'>
+    <li><b>Post-Doctoral Research Fellow</b></li>
+    <li>Natural History Museum, London, UK</li>
+    <li>ESA Rosalind Franlin Science Knowledge Programme</li>
+    <li>Title: <em>Expediting Science-Readiness of Enfys</em></li>
+    <li>P.I.</li>
+</ul>
+
 2024 &ndash; 2025
 <ul class='cv'>
     <li><b>Post-Doctoral Research Assistant</b></li>
@@ -65,4 +74,4 @@ order: 2
 </ul>  
 
 ---
-[Download a more complete CV here](downloadables/roger_stabbins_academic_cv_2024.pdf){:target="_blank"}.
+[Download a more complete CV here](downloadables/roger_stabbins_academic_cv_2025.pdf){:target="_blank"}.

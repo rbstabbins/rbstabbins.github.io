@@ -17,7 +17,10 @@ I'm interested in how we use robotic avatars to visually explore remote places i
 
 Some of the things I spend time thinking about include how light interacts with the different materials that make up the Solar System, how it travels towards, across and away from a landscape of those materials, how it encodes these interactions in a pattern across our camera sensors, how we represent that pattern in a digital signal, and how we process these signals into rich descriptions of those remote places.
 
-Right now I have a PDRA position with the [Planetary Surfaces Group](https://www.planetsurf.space/){:target="_blank"} of the Natural History Museum (London, UK), where I am testing out multipsectral processing methods on images captured by the [CaSSIS](https://www.cassis.unibe.ch/) multi-band camera of the ESA Trace Gas Oribter mission currently in operation at Mars.
+Right now I'm the PI of an ESA SKP grant for preparing the new Enfys infrared spectrometer for the ExoMars rover with the [Planetary Surfaces Group](https://www.planetsurf.space/){:target="_blank"} of the at the Natural History Museum (London, UK).
+I'm developing software simulations of Enfys, and testing the end-to-end data acquisition and analysis chains on the mineral, meteorite and petrology collections that we have at the Museum.
+
+This follows on from a PDRA position at the same desk at the Museum, where I've been testing out multipsectral processing methods on images captured by the [CaSSIS](https://www.cassis.unibe.ch/) multi-band camera of the ESA Trace Gas Oribter mission currently in operation at Mars.
 
 Previously I was a JSPS Short-Term Fellow in Tokyo, Japan, where I joined the science team of the JAXA Martian Moons Exploration mission (MMX), to help with calibration and operations planning for the OROCHI multispectral imager. MMX will launch in 2026 and reach the Mars system at the end of the summer 2028, studying Phobos from a Quasi-Satellite Orbit before landing on the surface and collecting a sample, and returning this to Earth in 2031, via a phase of Deimos observations.
 
