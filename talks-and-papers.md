@@ -9,11 +9,11 @@ Here is a list of talks I have given, conferences and workshops I've attended, a
 
 ### Publications
 
+**R. Stabbins** & S. Kameda, “LOROS: Laboratory Simulations of the Optical RadiOmeter composed of CHromatic Imagers (OROCHI) Experiment of the Martian Moons eXploration (MMX) Mission", Progress in Earth & Planetary Science, MMX Special Issue, In Press.  
+[:link: doi:10.21203/rs.3.rs-5448907/v1](https://doi.org/10.21203/rs.3.rs-5448907/v1){:target="_blank"}
+
 Tahara, R., Hatakeda, K., Nishimura, M., Yogata, K., Fukai, R., Miyazaki, A., Yada, T., Enokido, Y., Abe, M., Kawasaki, S., Sakurai, R., Okada, T., Pilorget, C., Bibring, J.-P., Hamm, V., Lourit, L., Loizeau, D., Riu, L., Yumoto, K., Cho, Y., Sugita, S., Nakahara, S., Mori, S., Aikyo, Y., Kameda, S., **Stabbins, R.**, Shimizu, Y., Miyamoto, H., Hitomi, Y., Nakano, A., Nagashima, K., Sugahara, H., Suzuki, S., Kimura, S. and Usui, T., "JAXA curation for Bennu samples returned by the NASA's OSIRIS-REx mission", Meteoritics & Planetary Science, October, 2025.
 [:link: doi.org/10.1111/maps.70066](https://doi.org/10.1111/maps.70066){:target="_blank"}
-
-**R. Stabbins** & S. Kameda, “LOROS: Laboratory Simulations of the Optical RadiOmeter composed of CHromatic Imagers (OROCHI) Experiment of the Martian Moons eXploration (MMX) Mission", Progress in Earth & Planetary Science, MMX Special Issue, In Review.  
-[:link: doi:10.21203/rs.3.rs-5448907/v1](https://doi.org/10.21203/rs.3.rs-5448907/v1){:target="_blank"}
 
 **R. Stabbins**, P.M. Grindrod, S. Motaghian, E.J. Allender, C.R. Cousins, “Optimizing ExoMars Rover Remote Sensing Multispectral Science II: Choosing and Using Multispectral Filters for Dynamic Planetary Surface Exploration With Linear Discriminant Analysis", Earth & Space Science, 11, 10, e2023EA003398, October 2024.  
 [:link: doi:10.1029/2023EA003398](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023EA003398){:target="_blank"}
@@ -80,6 +80,11 @@ Stabbins R. B. et al, "Simulating The Image Chain Of The Exomars 2020 Rover Panc
 
 
 ### Talks, Posters and Workshops
+:loudspeaker: RAS Specialist Meeting - UK Science Enabled by Small Body Sample Return, London, UK, 28/11/2025  
+:loudspeaker: UCL APEX Invited Seminar, London, UK, 28/11/2025  
+:page_with_curl: Impact of UK Planetary Geoscience, Geological Society, London, UK, 27/6/2024
+:loudspeaker: MMX 9th Science Team Meeting, Baltimore, US, 18-20/11/2025  
+:loudspeaker: ExoMars CaSSIS Science Team Meeting, Padua, IT, 12-14/11/2025  
 :earth_africa: Canadian x UK Space Agency ExoMars PanCam & Enfys Ries Crater Field Trip, Nördlingen, DE, 5-9/5/2025  
 :loudspeaker: European Geoscience Union General Assembly, Vienna, AT, 28/4-2/5/2025  
 :loudspeaker: ExoMars CaSSIS Science Team Meeting, Abu Dhabi, UAE, 27-31/01/2025  
