@@ -74,4 +74,4 @@ order: 2
 </ul>  
 
 ---
-[Download a more complete CV here](downloadables/roger_stabbins_academic_cv_2025.pdf){:target="_blank"}.
+[Download a more complete CV here](downloadables/roger_stabbins_academic_cv_2026.pdf){:target="_blank"}.

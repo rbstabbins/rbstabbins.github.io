@@ -80,9 +80,9 @@ Stabbins R. B. et al, "Simulating The Image Chain Of The Exomars 2020 Rover Panc
 
 
 ### Talks, Posters and Workshops
-:loudspeaker: RAS Specialist Meeting - UK Science Enabled by Small Body Sample Return, London, UK, 28/11/2025  
+:loudspeaker: RAS Specialist Meeting - UK Science Enabled by Small Body Sample Return, London, UK, 12/12/2025  
 :loudspeaker: UCL APEX Invited Seminar, London, UK, 28/11/2025  
-:page_with_curl: Impact of UK Planetary Geoscience, Geological Society, London, UK, 27/6/2024
+:page_with_curl: Impact of UK Planetary Geoscience, Geological Society, London, UK, 27/11/2025  
 :loudspeaker: MMX 9th Science Team Meeting, Baltimore, US, 18-20/11/2025  
 :loudspeaker: ExoMars CaSSIS Science Team Meeting, Padua, IT, 12-14/11/2025  
 :earth_africa: Canadian x UK Space Agency ExoMars PanCam & Enfys Ries Crater Field Trip, Nördlingen, DE, 5-9/5/2025  
